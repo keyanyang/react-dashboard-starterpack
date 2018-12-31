@@ -1,0 +1,13 @@
+.leaflet-container {
+    height: 600px;
+    width:80%;
+}
+
+#theme{
+  height: 35%;
+}
+
+#post {
+    height: 65%;
+    word-wrap:break-word;
+}
